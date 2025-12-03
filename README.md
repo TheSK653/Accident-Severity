@@ -3,6 +3,8 @@
 An end-to-end Machine Learning & Full-Stack web application that predicts the severity of road accidents based on real-time environmental and traffic conditions.
 Built using React (Vite) for the frontend, Node.js Express for API routing, and Flask (Python) for ML inference using an XGBoost model trained on US & UK Accident datasets.
 
+US Accidents (2016 - 2023) | Kaggle https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
+
 This system provides:
 
 🎯 Severity prediction: Minor / Moderate / Serious / Fatal
